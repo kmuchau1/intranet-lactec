@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-01-13 12:38+0000\n"
+"POT-Creation-Date: 2026-01-13 15:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,26 +14,50 @@ msgstr ""
 "Preferred-Encodings: utf-8 latin1\n"
 "Domain: DOMAIN\n"
 
-#: lactec/intranet/profiles.zcml:22
+#: lactec/intranet/content/area.py:14
+msgid "Contato"
+msgstr ""
+
+#: lactec/intranet/profiles.zcml:23
 msgid "Create example content to showcase the new website"
 msgstr ""
 
-#: lactec/intranet/profiles.zcml:22
+#: lactec/intranet/content/area.py:21
+msgid "Email"
+msgstr ""
+
+#: lactec/intranet/content/area.py:27
+msgid "Informe o telefone de contato"
+msgstr ""
+
+#: lactec/intranet/profiles.zcml:23
 msgid "Intranet Lactec: Example content"
 msgstr ""
 
-#: lactec/intranet/profiles.zcml:13
+#: lactec/intranet/profiles.zcml:14
 msgid "Intranet Lactec: Install"
 msgstr ""
 
-#: lactec/intranet/profiles.zcml:30
+#: lactec/intranet/profiles.zcml:31
 msgid "Intranet Lactec: Uninstall"
 msgstr ""
 
-#: lactec/intranet/profiles.zcml:13
+#: lactec/intranet/profiles.zcml:14
 msgid "Package to configure a new Intranet Lactec site"
 msgstr ""
 
-#: lactec/intranet/profiles.zcml:30
+#: lactec/intranet/content/area.py:26
+msgid "Telefone"
+msgstr ""
+
+#: lactec/intranet/profiles/default/types/Area.xml
+msgid "Uma Área dentro da Lactec"
+msgstr ""
+
+#: lactec/intranet/profiles.zcml:31
 msgid "Uninstall Intranet Lactec setup."
+msgstr ""
+
+#: lactec/intranet/profiles/default/types/Area.xml
+msgid "Área"
 msgstr ""
