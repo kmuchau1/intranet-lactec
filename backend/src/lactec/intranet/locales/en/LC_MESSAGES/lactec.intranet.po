@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-01-13 18:46+0000\n"
+"POT-Creation-Date: 2026-01-13 19:41+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,6 +14,18 @@ msgstr ""
 "Preferred-Encodings: utf-8 latin1\n"
 "Domain: lactec.intranet\n"
 
+#: lactec/intranet/content/area.py:66
+msgid "CEP"
+msgstr ""
+
+#: lactec/intranet/content/area.py:57
+msgid "Cidade"
+msgstr ""
+
+#: lactec/intranet/content/area.py:51
+msgid "Complemento"
+msgstr ""
+
 #: lactec/intranet/content/area.py:15
 msgid "Contato"
 msgstr ""
@@ -24,6 +36,18 @@ msgstr ""
 
 #: lactec/intranet/content/area.py:22
 msgid "Email"
+msgstr ""
+
+#: lactec/intranet/content/area.py:36
+msgid "Endereço"
+msgstr ""
+
+#: lactec/intranet/content/area.py:62
+msgid "Estado"
+msgstr ""
+
+#: lactec/intranet/content/area.py:52
+msgid "Ex. Anexo, Sala"
 msgstr ""
 
 #: lactec/intranet/content/area.py:29
