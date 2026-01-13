@@ -1,7 +1,7 @@
+from lactec.intranet import logger
 from plone import api
 from Products.CMFPlone.WorkflowTool import WorkflowTool
 from Products.GenericSetup.tool import SetupTool
-from lactec.intranet import logger
 
 
 def atualiza_permissoes(portal_setup: SetupTool):
