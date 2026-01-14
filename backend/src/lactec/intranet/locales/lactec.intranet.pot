@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-01-13 20:35+0000\n"
+"POT-Creation-Date: 2026-01-14 13:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,6 +19,14 @@ msgstr ""
 
 #: lactec/intranet/vocabularies/estados.py:9
 msgid "Acre"
+msgstr ""
+
+#: lactec/intranet/behaviors/configure.zcml:13
+msgid "Adiciona campos de informações de contato."
+msgstr ""
+
+#: lactec/intranet/behaviors/configure.zcml:21
+msgid "Adiciona campos de informações de endereço."
 msgstr ""
 
 #: lactec/intranet/vocabularies/estados.py:10
@@ -37,7 +45,7 @@ msgstr ""
 msgid "Bahia"
 msgstr ""
 
-#: lactec/intranet/content/area.py:67
+#: lactec/intranet/behaviors/endereco.py:45
 msgid "CEP"
 msgstr ""
 
@@ -45,15 +53,15 @@ msgstr ""
 msgid "Ceará"
 msgstr ""
 
-#: lactec/intranet/content/area.py:57
+#: lactec/intranet/behaviors/endereco.py:35
 msgid "Cidade"
 msgstr ""
 
-#: lactec/intranet/content/area.py:51
+#: lactec/intranet/behaviors/endereco.py:29
 msgid "Complemento"
 msgstr ""
 
-#: lactec/intranet/content/area.py:15
+#: lactec/intranet/behaviors/contato.py:16
 msgid "Contato"
 msgstr ""
 
@@ -65,11 +73,11 @@ msgstr ""
 msgid "Distrito Federal"
 msgstr ""
 
-#: lactec/intranet/content/area.py:22
+#: lactec/intranet/behaviors/contato.py:23
 msgid "Email"
 msgstr ""
 
-#: lactec/intranet/content/area.py:36
+#: lactec/intranet/behaviors/endereco.py:14
 msgid "Endereço"
 msgstr ""
 
@@ -77,11 +85,11 @@ msgstr ""
 msgid "Espírito Santo"
 msgstr ""
 
-#: lactec/intranet/content/area.py:62
+#: lactec/intranet/behaviors/endereco.py:40
 msgid "Estado"
 msgstr ""
 
-#: lactec/intranet/content/area.py:52
+#: lactec/intranet/behaviors/endereco.py:30
 msgid "Ex. Anexo, Sala"
 msgstr ""
 
@@ -89,7 +97,15 @@ msgstr ""
 msgid "Goiás"
 msgstr ""
 
-#: lactec/intranet/content/area.py:29
+#: lactec/intranet/behaviors/configure.zcml:13
+msgid "Informações de Contato"
+msgstr ""
+
+#: lactec/intranet/behaviors/configure.zcml:21
+msgid "Informações de Endereço"
+msgstr ""
+
+#: lactec/intranet/behaviors/contato.py:30
 msgid "Informe o telefone de contato"
 msgstr ""
 
@@ -177,7 +193,7 @@ msgstr ""
 msgid "São Paulo"
 msgstr ""
 
-#: lactec/intranet/content/area.py:28
+#: lactec/intranet/behaviors/contato.py:29
 msgid "Telefone"
 msgstr ""
 
