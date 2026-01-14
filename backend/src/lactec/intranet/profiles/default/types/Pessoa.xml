@@ -26,12 +26,11 @@
   >
     <element value="plone.basic" />
     <element value="plone.namefromtitle" />
-    <element value="plone.shortname" />
-    <element value="plone.excludefromnavigation" />
+    <element value="plone.leadimage" />
     <element value="lactec.intranet.behavior.contato" />
     <element value="lactec.intranet.behavior.endereco" />
-    <element value="volto.blocks" />
-    <element value="volto.preview_image" />
+    <element value="plone.shortname" />
+    <element value="plone.excludefromnavigation" />
     <element value="plone.constraintypes" />
     <element value="plone.versioning" />
   </property>
