@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-01-14 14:29+0000\n"
+"POT-Creation-Date: 2026-01-14 15:20+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -44,6 +44,14 @@ msgstr ""
 
 #: lactec/intranet/behaviors/endereco.py:45
 msgid "CEP"
+msgstr ""
+
+#: lactec/intranet/vocabularies/cargos.py:9
+msgid "CLT"
+msgstr ""
+
+#: lactec/intranet/content/pessoa.py:14
+msgid "Cargo"
 msgstr ""
 
 #: lactec/intranet/vocabularies/estados.py:14
@@ -196,6 +204,10 @@ msgstr ""
 
 #: lactec/intranet/behaviors/contato.py:29
 msgid "Telefone"
+msgstr ""
+
+#: lactec/intranet/vocabularies/cargos.py:10
+msgid "Terceirizado"
 msgstr ""
 
 #: lactec/intranet/vocabularies/estados.py:35
